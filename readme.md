@@ -1,9 +1,11 @@
 # Facial emotion detection and health data analysis system
 
-![img_1.png](img_1.png)
+![emotion](emo.png)
 
 ## Overview
 Our project focuses on building a Convolutional Neural Network (CNN) model for facial emotion detection in images. We have also developed a user-friendly Graphical User Interface (GUI) to ensure ease of use and seamless navigation.
+
+![demo](demo.png)
 
 ## Environment set up
 
